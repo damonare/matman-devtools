@@ -11,3 +11,9 @@ chrome.devtools.panels.create(
   'icons/icon16.png',
   'panel/index.html'
 );
+
+chrome.devtools.panels.create(
+  'Mocker',
+  'icons/icon16.png',
+  'mocker/index.html'
+);

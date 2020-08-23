@@ -1,7 +1,7 @@
 const path = require('path');
 const shelljs = require('shelljs');
 
-const dirs = ['sidebar', 'panel'];
+const dirs = ['mocker'];
 const cwd = process.cwd();
 
 (function () {
